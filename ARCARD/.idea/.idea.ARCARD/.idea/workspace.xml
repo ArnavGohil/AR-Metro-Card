@@ -13,15 +13,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ButtonGreen.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="296">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
-                <marker date="1563198320345" expanded="true" signature="6:93" ph="..." />
-                <marker date="1563198320345" expanded="true" signature="164:897" ph="{...}" />
-                <marker date="1563198320345" expanded="true" signature="303:530" ph="{...}" />
-                <marker date="1563198320345" expanded="false" signature="588:609" ph="{...}" />
-                <marker date="1563198320345" expanded="true" signature="669:756" ph="{...}" />
-                <marker date="1563198320345" expanded="true" signature="817:895" ph="{...}" />
+                <marker date="1563257377194" expanded="true" signature="6:93" ph="..." />
+                <marker date="1563257377194" expanded="true" signature="164:765" ph="{...}" />
+                <marker date="1563257377194" expanded="true" signature="301:475" ph="{...}" />
+                <marker date="1563257377194" expanded="true" signature="535:617" ph="{...}" />
+                <marker date="1563257377194" expanded="true" signature="678:763" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,8 +39,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="420" />
-    <option name="y" value="23" />
+    <option name="x" value="729" />
+    <option name="y" value="27" />
     <option name="width" value="1260" />
     <option name="height" value="771" />
   </component>
@@ -50,7 +49,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
@@ -58,6 +56,7 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -110,11 +109,15 @@
       <workItem from="1563197894140" duration="139000" />
       <workItem from="1563198300930" duration="40000" />
       <workItem from="1563198564080" duration="307000" />
+      <workItem from="1563213288227" duration="611000" />
+      <workItem from="1563214836225" duration="186000" />
+      <workItem from="1563216088455" duration="415000" />
+      <workItem from="1563257331262" duration="515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1938000" />
+    <option name="totallyTimeSpent" value="3665000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -126,10 +129,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="420" y="23" width="1260" height="771" extended-state="0" />
+    <frame x="729" y="27" width="1260" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16995074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17980295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,15 +177,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/ButtonGreen.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="296">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
-            <marker date="1563198320345" expanded="true" signature="6:93" ph="..." />
-            <marker date="1563198320345" expanded="true" signature="164:897" ph="{...}" />
-            <marker date="1563198320345" expanded="true" signature="303:530" ph="{...}" />
-            <marker date="1563198320345" expanded="false" signature="588:609" ph="{...}" />
-            <marker date="1563198320345" expanded="true" signature="669:756" ph="{...}" />
-            <marker date="1563198320345" expanded="true" signature="817:895" ph="{...}" />
+            <marker date="1563257377194" expanded="true" signature="6:93" ph="..." />
+            <marker date="1563257377194" expanded="true" signature="164:765" ph="{...}" />
+            <marker date="1563257377194" expanded="true" signature="301:475" ph="{...}" />
+            <marker date="1563257377194" expanded="true" signature="535:617" ph="{...}" />
+            <marker date="1563257377194" expanded="true" signature="678:763" ph="{...}" />
           </folding>
         </state>
       </provider>
