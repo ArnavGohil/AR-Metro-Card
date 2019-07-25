@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: AXmIf4j/////AAABmcrvAFlZ0EvxsUcoy3+jajwazbuSraDYcgk68seUVbnTyOm08z4jb9UbWrsU4smRid/KFTKfWMlGoenesqqrRlmnStlWw063IOipv98UztXrtqdAbboN8bCrKMbSYhwSCGI1HcszfwRLBDs2QI+WxlebA9CoXirHwi5hg5xkh25XkL4UopHvdr+bqfSzDIlL8IiHZtFotnTdzdaba4GH29oYiZmdRbIlSdc7dMerJquca6+iragf4ep8UdXsu+Hn+wMufYg8j2pw2AJGqB21MfUraiWWFo1bHFxVeWUw70yTYHyxviGJKKOmJonGIUlVADMnGWmW7kQo+2B8KpnNu3VBD2CYeSKu1CoV1KG5mYwV
-    ufoLicenseKey: QVgyM2wrNy8vLy8vQUFBQUtFZ3RJUkU5SjBCM3ZDdXFETWVQQzJHRkpwei9mUEM5cXhEeFFmMDRnc1BNclQ3RlFjRmVqdXRqamRPNldKdStRaTlGZGNicGFqZERVeWNiS0lMMXNtWGxNTkJPYnh0WmVoRVVqR0tPWlJVZDBRR2Q4c0huWFZXcmlNbHlNaEY4V21HaUtQUzdpdjJWVjhleTRlMDN6emE3VDE2Q1BPYzRhMXBuRm41K0puZVhFYWx6WUZTeHJESm16UlJUalhiTWkxb1BYMm9SQ2tlalg5WGpFcTNYV2txUjlyVlArbFUyakhBNHJFNkhJay8rdVUyalhuUFVjdEZxcVFoNy8xY3BwMDlPZThWUmxjUmFHN0VkWXhKOTVRd1BPM1IwQjkwd01scHFsUnZQd083SEwrUS9IaEZzKzZkTkRsL3E1ZGpiVjBmeVdhUTVXNFpoTlFMazhCbzJXY2lTK3hQRDVwMjhDSlBYYkw4RU1ZWjY=
+    ufoLicenseKey: QVhNY3cyai8vLy8vQUFBQUtLcWxrZ1lRUlV0WW1jQ1dPVnY3bmhNTkIwNGRRNG95NXUwK3daRm1ERG1RSkJrclFzaksrY2NRM1RZUlljdHJkQ2FTZ3RCMGJEWllNSDlleFhiN1lCNVdBTmpmTFkvWVl6aDBDdlU4VisyTDRUYkV1L0VjVDFNenpCSE1vYTVsT1hBNHJDdXdtdkxpVzI5U0xHelJZL3VIMGNtZ1BkWFo0eUdJVlhLNmJPYlpNbDVGSEtVUEJHbjliQVkvckZUWEJrYndlVWpobG5qeWJiZ0tVbE8zOXl4cWpwY2hXdzVKVUdDUkdacDc5NTAvLzN5OG9pUTBBVGZIdThaME96ZFVCTEdXSC96WTdaMG84SGFrQUNEWDVGSEY2ZEtLSzI4bFBPK0VZYXlpVDF3TnhCWWlJTC9LeVUrWTZVM3EzbXgwMjVqMXJQbFNjSnhCYnd5OXVFODZveTJORS9HMnN5K1I2LzFJOERvNzB0QXQ=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -53,11 +53,11 @@ MonoBehaviour:
     matteShader: {fileID: 4800000, guid: 66d0d78a3000021448b598bb54a3bfdf, type: 3}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoInitTracker: 1
-    autoStartTracker: 1
+    autoInitTracker: 0
+    autoStartTracker: 0
     trackingMode: 1
-    posePrediction: 1
-    modelCorrectionMode: 2
+    posePrediction: 0
+    modelCorrectionMode: 0
     modelTransformEnabled: 0
     modelTransform: {x: 0, y: 0.1, z: -0.1}
   smartTerrain:

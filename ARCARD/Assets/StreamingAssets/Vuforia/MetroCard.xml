@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="card" size="5.000000 3.174387" />
+    <ImageTarget name="BLRtoken2" size="5.000000 4.498480" />
+    <ImageTarget name="BLRtoken1" size="5.000000 4.565972" />
+    <ImageTarget name="BLRcard2" size="5.000000 3.214890" />
+    <ImageTarget name="BLRcard1" size="5.000000 3.229167" />
   </Tracking>
 </QCARConfig>
