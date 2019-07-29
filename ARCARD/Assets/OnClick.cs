@@ -8,12 +8,27 @@ public class OnClick : MonoBehaviour
 {
     public Animator cubeAni;
 
+    public GameObject tile;
+
+    public GameObject station;
+    public GameObject first;
+    public GameObject last;
+    public GameObject parking;
+    public GameObject tourist;
+
     String btnName;
     
     // Start is called before the first frame update
     void Start()
     {
+        tile = GameObject.Find("InfoTile");
+        station = GameObject.Find("Station");
+        first = GameObject.Find("First");
+        last = GameObject.Find("Last");
+        parking = GameObject.Find("Parking");
+        tourist = GameObject.Find("Tourist");
         cubeAni.GetComponent<Animator>();
+        tile.SetActive(false);
     }
 
     // Update is called once per frame
@@ -28,13 +43,17 @@ public class OnClick : MonoBehaviour
             {
                 btnName = hit.transform.name;
                 //Api Call with btnName;
-                switch (btnName)
+                if (btnName.Equals("Green"))
                 {
-                    case "Green" : cubeAni.Play("anim");
-                        break;
-                    
-                    case "Violet" : cubeAni.Play("none");
-                        break;
+                    cubeAni.Play("anim");
+                }
+                else if (btnName.Equals("Violet"))
+                {
+                    cubeAni.Play("none");
+                }
+                else
+                {
+                    tile.SetActive(true);
                 }
             }
         }

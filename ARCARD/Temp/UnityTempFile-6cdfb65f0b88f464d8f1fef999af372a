@@ -1,6 +1,6 @@
 /target:library
 /nowarn:0169
-/out:"Temp/VuforiaScripts.dll"
+/out:"Temp/Unity.Analytics.DataPrivacy.dll"
 /debug:portable
 /optimize-
 /nostdlib+
@@ -84,12 +84,12 @@
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+/reference:"Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll"
 /reference:"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
 /reference:"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
 /reference:"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
 /reference:"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
 /reference:"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
-/reference:"Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.3.14f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll"
@@ -305,8 +305,6 @@
 /define:UNITY_TEAM_LICENSE
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"Assets/Vuforia/Scripts/BoundingBoxRenderer.cs"
-"Assets/Vuforia/Scripts/DefaultInitializationErrorHandler.cs"
-"Assets/Vuforia/Scripts/DefaultModelRecoEventHandler.cs"
-"Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs"
-"Assets/Vuforia/Scripts/Internal/RuntimeOpenSourceInitializer.cs"
+"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/AssemblyInfo.cs"
+"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacy.cs"
+"/Users/arnavgohil/Downloads/AR-Metro-Card/ARCARD/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.cs"
