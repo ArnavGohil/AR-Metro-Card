@@ -4,17 +4,17 @@
     <list default="true" id="dbf4f29c-0801-48f0-8204-ea07866cbb3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ARCARD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARCARD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/OnClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OnClick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/VuforiaScripts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
@@ -41,578 +41,78 @@
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler8.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest-main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/aar/VuforiaWrapper.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/66d0d78a3000021448b598bb54a3bfdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Data.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Drawing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Transactions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.BaselibModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TimelineModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Vuforia.UnityExtensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/netstandard.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/c6d023ef1c70440b5b165715de6daec0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/f40623b353e2f1943b1b3ba42975db7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/sharedassets0.assets.split9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/armeabi-v7a/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/armeabi-v7a/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/armeabi-v7a/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/armeabi-v7a/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/x86/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/x86/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/x86/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/libs/x86/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/raw/Vuforia/MetroCard.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/raw/Vuforia/MetroCard.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/drawable-xhdpi/app_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/mipmap-anydpi-v26/app_icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/mipmap-anydpi-v26/app_icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/mipmap-mdpi/app_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-033344193729148429e77bc3f5e5241b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0ba8e2cedb5c3477893b821114336a88" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1917b98998131412d9a3f017cd6eafe3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1ad0f709dc84c4bf69989bf3bdd65e1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3288aa40595be44169b3345fc48522de" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-35d7ebf9ea9bb4276aa6f17aac810957" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3e35aad4e8329411f8ccf0ef0c9ff3cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-405183512602b40849448df0fd07d117" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4dfd382278a1a4f9698b3a5bad3c18ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-501507ecdb30a432d952fc4a70e6e7e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-62a5ab3b5186343d591b41167f7e972c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-72cbb6d1f8ee841a6afdf0d4399c1704" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-74b6a0cbbb54b4579927ca6e606ac427" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-773ca6e0a79194adcb545c06cb2ceeab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7a61bad60fde04b4d9f27ddae01d5248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8eca15e9feb024460ab145eb648200d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a2e6d5c2556514fce9b92c61beb21944" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ac5981d7c51c94be09eaf9c0a8a8aecb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b227fb6cd3230434c9246e7eff24a4ba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b3a2adb91bb234ae0b4d32d5710799f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b4e3ba2bc56e248eba4e1fbfd92451a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b8669e275bb1f480b975c628563dcee2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c1f159cc973a748b9984116d888c9668" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cbf906c04b5c1429f9c8906314d7cbaa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cc7fff2d2f5d3490abe52088a854a62b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cf3d5a3c45c974ef0b524362ffae58e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db37dc0f4a38649ae90221e0a5c8bc86" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-dd9afa86a4476488590fa087df008bef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-defe44d5e6d6f466f98cafce98b7f4d6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e8aaf47fa539a48b3bd162fb45e6c4ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-faa5d8d398bb348a5ae3e6e22c1b4d91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fab4f18f040e14c5285ec4b4cd7cb9c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0298f736abcd8470e9abd35c8078ccdd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c4b48f68888f40658ca74752c903a8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-201e08ec9796a4de7a4aa0a64c21cd68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-289021486ddb648c6906d3d4a756e215" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2906d275cd1474a6bb4dfdce39bf6173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3390a374ecb0849a2bcba83305fdaa30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-340a367ff34964edbb0814f84c0673ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3850ccd6d50254571990431a21e4e70f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3921a625d032b4b83a55c9063d023708" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4def42aacbe4542c591c9074699807ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4ee1b607605844bb0ab1275b4c6ff847" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5c1272b72e328454bbfa8c3cfe024b28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6235aea08b40a4cbe877050c95dd3e1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6cdfb65f0b88f464d8f1fef999af372a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6f021eb4f40f04c418081a0ff95a8332" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-725d6e23eb71c4540adb26dfab919cbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7c7cd8a31d3e543948a6f9bae281dd63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-856a1e771a8ec427a85469b4c7edce38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9c4c97f85fb10407896b763e0af30c9b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a426c426576d3406eb8a2eb2ce71f480" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ace22b7286b324ccdb1ec0a901c3d753" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c1ec02621540942f98bdd65dddf5689b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cd955ad8921c543bab3b9ae07cd94e16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-df04d38c02cab4fcbbfe0d2f85ebcf7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e10700bff59f3407d89225372f525b6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f469ab46f3aec49f78a1973f423e595f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/example/MetroVR/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/generated/not_namespaced_r_class_sources/release/processReleaseResources/r/com/vuforia/engine/ext/R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/generated/source/buildConfig/release/com/example/MetroVR/BuildConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/annotation_processor_list/release/javaPreCompileRelease/annotationProcessors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/apk_list/release/mainApkListPersistenceRelease/apk-list.gson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/blame/res/release/multi-v2/release.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/blame/res/release/multi-v2/values-v21.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/blame/res/release/multi-v2/values.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/blame/res/release/single/release.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/compatible_screen_manifest/release/createReleaseCompatibleScreenManifests/out/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseAssets/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseShaders/merger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/gM5SfuT69uX9avxSxuhNr2MoSXA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJavaRes/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJavaRes/zip-cache/6K3W3NKyxtAmBS8AsR2D2jwT4lA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJavaRes/zip-cache/V6yb2vGyl0rEvpppLqeIRPm+nJ4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJavaRes/zip-cache/jZpkgslFeNAWSz9X7HvadcIqyrQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJavaRes/zip-cache/mLTiyqy6lRgj1tzHDv8limsdda4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJniLibs/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJniLibs/zip-cache/6K3W3NKyxtAmBS8AsR2D2jwT4lA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJniLibs/zip-cache/V6yb2vGyl0rEvpppLqeIRPm+nJ4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJniLibs/zip-cache/jZpkgslFeNAWSz9X7HvadcIqyrQ=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/release-mergeJniLibs/zip-cache/mLTiyqy6lRgj1tzHDv8limsdda4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/instant_run_merged_manifests/release/processReleaseManifest/instant-run/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/R$drawable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/R$mipmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/R$string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/R$style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/example/MetroVR/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/javac/release/compileReleaseJavaWithJavac/classes/com/vuforia/engine/ext/R.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/armeabi-v7a/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/armeabi-v7a/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/armeabi-v7a/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/armeabi-v7a/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/x86/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/x86/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/x86/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/jniLibs/release/x86/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/lint-cache/maven.google/com/android/tools/build/group-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/Vuforia/MetroCard.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/Vuforia/MetroCard.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/66d0d78a3000021448b598bb54a3bfdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Configuration.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Data.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Drawing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Transactions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.BaselibModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.TimelineModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Vuforia.UnityExtensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/netstandard.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/c6d023ef1c70440b5b165715de6daec0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/f40623b353e2f1943b1b3ba42975db7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/sharedassets0.assets.split9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/merged/release/values_values.arsc.flat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/split_list/release/splitsDiscoveryTaskRelease/split-list.gson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/symbols/release/R.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/BuildConfig.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/R$drawable.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/R$mipmap.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/R$string.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/R$style.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/example/MetroVR/R.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/9/com/vuforia/engine/ext/R.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/externalLibsDexMerger/release/0/classes.dex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/externalLibsDexMerger/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJavaRes/release/0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJavaRes/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/arm64-v8a/libVuforia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/arm64-v8a/libVuforiaDL.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/arm64-v8a/libVuforiaUnityPlayer.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/arm64-v8a/libVuforiaWrapper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libVuforia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libVuforiaDL.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libVuforiaUnityPlayer.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libVuforiaWrapper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi-v7a/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libVuforia.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libVuforiaDL.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libVuforiaUnityPlayer.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libVuforiaWrapper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/mergeJniLibs/release/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/outputs/apk/release/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/libs/VuforiaWrapper.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/libs/unity-classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/proguard-unity.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/Vuforia/MetroCard.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/Vuforia/MetroCard.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/66d0d78a3000021448b598bb54a3bfdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Mono.Security.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Configuration.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Data.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Drawing.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Net.Http.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Numerics.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Transactions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.Xml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/System.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.BaselibModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Networking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTrackingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.Timeline.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.TimelineModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Vuforia.UnityExtensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/mscorlib.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/netstandard.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/c6d023ef1c70440b5b165715de6daec0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/f40623b353e2f1943b1b3ba42975db7a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/sharedassets0.assets.split9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/armeabi-v7a/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/x86/libMonoPosixHelper.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/x86/libmain.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/x86/libmonobdwgc-2.0.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/jniLibs/x86/libunity.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VuforiaEditorScripts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VuforiaEditorScripts.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VuforiaScripts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VuforiaScripts.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/gM5SfuT69uX9avxSxuhNr2MoSXA=" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/gM5SfuT69uX9avxSxuhNr2MoSXA=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/level0" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -625,18 +125,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/OnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+            <state relative-caret-position="144">
+              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
               <folding>
-                <marker date="1564402314502" expanded="false" signature="6:125" ph="..." />
-                <marker date="1564402314502" expanded="true" signature="163:1716" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="470:819" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="877:1714" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="1066:1708" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="1232:1698" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="1378:1456" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="1507:1585" ph="{...}" />
-                <marker date="1564402314502" expanded="true" signature="1606:1684" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="6:160" ph="..." />
+                <marker date="1564425764643" expanded="true" signature="198:2900" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="505:854" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="912:2031" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="1101:2025" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="1267:2015" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="1413:1491" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="1542:1620" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="1641:2001" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="2069:2893" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="2161:2461" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="2294:2451" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="2494:2887" ph="{...}" />
+                <marker date="1564425764643" expanded="true" signature="2639:2858" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -666,9 +171,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="420" />
-    <option name="y" value="96" />
-    <option name="width" value="1260" />
+    <option name="x" value="165" />
+    <option name="y" value="75" />
+    <option name="width" value="1365" />
     <option name="height" value="771" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -677,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -686,6 +190,7 @@
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -739,11 +244,17 @@
       <workItem from="1564337772912" duration="171000" />
       <workItem from="1564398584950" duration="170000" />
       <workItem from="1564400979213" duration="945000" />
+      <workItem from="1564405523247" duration="579000" />
+      <workItem from="1564419157616" duration="328000" />
+      <workItem from="1564419699018" duration="1941000" />
+      <workItem from="1564425250627" duration="25000" />
+      <workItem from="1564425419281" duration="71000" />
+      <workItem from="1564425668719" duration="96000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2229000" />
+    <option name="totallyTimeSpent" value="5269000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,10 +266,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="420" y="96" width="1260" height="771" extended-state="0" />
+    <frame x="165" y="75" width="1365" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26600984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26757368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -803,18 +314,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/OnClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        <state relative-caret-position="144">
+          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
           <folding>
-            <marker date="1564402314502" expanded="false" signature="6:125" ph="..." />
-            <marker date="1564402314502" expanded="true" signature="163:1716" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="470:819" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="877:1714" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="1066:1708" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="1232:1698" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="1378:1456" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="1507:1585" ph="{...}" />
-            <marker date="1564402314502" expanded="true" signature="1606:1684" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="6:160" ph="..." />
+            <marker date="1564425764643" expanded="true" signature="198:2900" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="505:854" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="912:2031" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="1101:2025" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="1267:2015" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="1413:1491" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="1542:1620" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="1641:2001" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="2069:2893" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="2161:2461" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="2294:2451" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="2494:2887" ph="{...}" />
+            <marker date="1564425764643" expanded="true" signature="2639:2858" ph="{...}" />
           </folding>
         </state>
       </provider>
