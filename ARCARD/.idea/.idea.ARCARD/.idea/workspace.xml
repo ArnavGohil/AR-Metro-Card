@@ -6,8 +6,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/OnClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OnClick.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
@@ -15,9 +13,8 @@
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/Managed/VuforiaScripts.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/globalgamemanagers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Android/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
@@ -41,78 +38,6 @@
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler8.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/assets/bin/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/gradleWarmupArea/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0298f736abcd8470e9abd35c8078ccdd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1c4b48f68888f40658ca74752c903a8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-201e08ec9796a4de7a4aa0a64c21cd68" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-289021486ddb648c6906d3d4a756e215" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2906d275cd1474a6bb4dfdce39bf6173" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3390a374ecb0849a2bcba83305fdaa30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-340a367ff34964edbb0814f84c0673ba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3850ccd6d50254571990431a21e4e70f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3921a625d032b4b83a55c9063d023708" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4def42aacbe4542c591c9074699807ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4ee1b607605844bb0ab1275b4c6ff847" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5c1272b72e328454bbfa8c3cfe024b28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6235aea08b40a4cbe877050c95dd3e1c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6cdfb65f0b88f464d8f1fef999af372a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6f021eb4f40f04c418081a0ff95a8332" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-725d6e23eb71c4540adb26dfab919cbf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7c7cd8a31d3e543948a6f9bae281dd63" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-856a1e771a8ec427a85469b4c7edce38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9c4c97f85fb10407896b763e0af30c9b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a426c426576d3406eb8a2eb2ce71f480" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ace22b7286b324ccdb1ec0a901c3d753" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c1ec02621540942f98bdd65dddf5689b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cd955ad8921c543bab3b9ae07cd94e16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-df04d38c02cab4fcbbfe0d2f85ebcf7f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e10700bff59f3407d89225372f525b6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f469ab46f3aec49f78a1973f423e595f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/gM5SfuT69uX9avxSxuhNr2MoSXA=" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/gM5SfuT69uX9avxSxuhNr2MoSXA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_assets/release/mergeReleaseAssets/out/bin/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/intermediates/transforms/dexBuilder/release/5.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/build/reports/lint-results-release-fatal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/VuforiaScripts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/Managed/VuforiaScripts.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/gradleOut/src/main/assets/bin/Data/level0" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,23 +50,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/OnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            <state relative-caret-position="279">
+              <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
               <folding>
-                <marker date="1564425764643" expanded="true" signature="6:160" ph="..." />
-                <marker date="1564425764643" expanded="true" signature="198:2900" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="505:854" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="912:2031" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="1101:2025" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="1267:2015" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="1413:1491" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="1542:1620" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="1641:2001" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="2069:2893" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="2161:2461" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="2294:2451" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="2494:2887" ph="{...}" />
-                <marker date="1564425764643" expanded="true" signature="2639:2858" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="6:160" ph="..." />
+                <marker date="1564505595954" expanded="true" signature="198:4005" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="501:861" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="919:2562" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="1106:2556" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="1271:2546" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="1417:1495" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="1546:1624" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="1645:2532" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="2608:2951" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="2869:2945" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="2981:4003" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="3241:3562" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="3395:3552" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="3594:3997" ph="{...}" />
+                <marker date="1564505595954" expanded="true" signature="3748:3967" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,7 +80,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/11/77a6535a/AutoResetEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/0d/a018f8b8/Exception.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OnClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/da/75fcedc2/ArgumentOutOfRangeException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/44/f3f4cebb/Buffer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/b5/7fc2834b/ArgumentException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/15966B0E-0B01-470A-B47C-749D344008BB/68/29224396/StackTraceUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/61/d03996b5/SystemException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/8a/3853302e/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/0b/3f848c77/Environment.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,8 +107,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="75" />
+    <option name="x" value="72" />
+    <option name="y" value="164" />
     <option name="width" value="1365" />
     <option name="height" value="771" />
   </component>
@@ -189,8 +125,8 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,10 +157,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="5460">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="5460" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -250,11 +186,18 @@
       <workItem from="1564425250627" duration="25000" />
       <workItem from="1564425419281" duration="71000" />
       <workItem from="1564425668719" duration="96000" />
+      <workItem from="1564462616099" duration="484000" />
+      <workItem from="1564467522213" duration="250000" />
+      <workItem from="1564467775812" duration="350000" />
+      <workItem from="1564469331807" duration="3000" />
+      <workItem from="1564486942678" duration="3804000" />
+      <workItem from="1564492583428" duration="2076000" />
+      <workItem from="1564504697156" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5269000" />
+    <option name="totallyTimeSpent" value="13015000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,16 +209,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="165" y="75" width="1365" height="771" extended-state="0" />
+    <frame x="72" y="164" width="1365" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26757368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29554045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -312,25 +255,90 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/8a/3853302e/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="808" column="8" selection-start-line="808" selection-start-column="8" selection-end-line="808" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/da/75fcedc2/ArgumentOutOfRangeException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/11/77a6535a/AutoResetEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/15966B0E-0B01-470A-B47C-749D344008BB/68/29224396/StackTraceUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/b5/7fc2834b/ArgumentException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/61/d03996b5/SystemException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/0b/3f848c77/Environment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/44/f3f4cebb/Buffer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4784">
+          <caret line="302" column="6" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7AC571C-A2D0-4B2F-981D-0D886FA067CF/0d/a018f8b8/Exception.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="214" column="6" selection-start-line="214" selection-start-column="6" selection-end-line="214" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OnClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        <state relative-caret-position="279">
+          <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
           <folding>
-            <marker date="1564425764643" expanded="true" signature="6:160" ph="..." />
-            <marker date="1564425764643" expanded="true" signature="198:2900" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="505:854" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="912:2031" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="1101:2025" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="1267:2015" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="1413:1491" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="1542:1620" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="1641:2001" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="2069:2893" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="2161:2461" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="2294:2451" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="2494:2887" ph="{...}" />
-            <marker date="1564425764643" expanded="true" signature="2639:2858" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="6:160" ph="..." />
+            <marker date="1564505595954" expanded="true" signature="198:4005" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="501:861" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="919:2562" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="1106:2556" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="1271:2546" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="1417:1495" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="1546:1624" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="1645:2532" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="2608:2951" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="2869:2945" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="2981:4003" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="3241:3562" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="3395:3552" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="3594:3997" ph="{...}" />
+            <marker date="1564505595954" expanded="true" signature="3748:3967" ph="{...}" />
           </folding>
         </state>
       </provider>
