@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 public class OnClick : MonoBehaviour
 {
@@ -13,10 +10,7 @@ public class OnClick : MonoBehaviour
     public GameObject tile;
 
     public GameObject station;
-    public GameObject first;
-    public GameObject last;
-    public GameObject parking;
-    public GameObject tourist;
+
 
     String btnName;
 
@@ -25,15 +19,8 @@ public class OnClick : MonoBehaviour
     {
         tile = GameObject.Find("InfoTile");
         station = GameObject.Find("Station");
-        first = GameObject.Find("First");
-        last = GameObject.Find("Last");
-        parking = GameObject.Find("Parking");
-        tourist = GameObject.Find("Tourist");
         cubeAni.GetComponent<Animator>();
         tile.SetActive(false);
-
-
-        
     }
 
     // Update is called once per frame
@@ -42,6 +29,7 @@ public class OnClick : MonoBehaviour
         //To check Button is pressed and pressed only once. as Update function runs on every frame..
         if (Input.touchCount > 0 && Input.touches[0].phase == TouchPhase.Began)
         {
+            tile.SetActive(false);
             Ray ray = Camera.main.ScreenPointToRay(Input.GetTouch(0).position);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit))
@@ -62,15 +50,8 @@ public class OnClick : MonoBehaviour
                     string json1 = GET(btnName);
                     MyClass fld = MyClass.CreateFromJson(json1.Substring(3, json1.Length - 5));
                     TextMesh sta1 = (TextMesh) station.GetComponent(typeof(TextMesh));
-                    TextMesh sta2 = (TextMesh) first.GetComponent(typeof(TextMesh));
-                    TextMesh sta3 = (TextMesh) last.GetComponent(typeof(TextMesh));
-                    TextMesh sta4 = (TextMesh) parking.GetComponent(typeof(TextMesh));
-                    TextMesh sta5 = (TextMesh) tourist.GetComponent(typeof(TextMesh));
-                    sta1.text = fld.Name;
-                    sta2.text = fld.FirstTrain;
-                    sta3.text = fld.LastTrain;
-                    sta4.text = fld.Parking;
-                    sta5.text = fld.ImportantSpots;
+                    sta1.text = fld.Name + "\n" + "\n" + fld.FirstTrain + "\n" + fld.LastTrain + "\n" + "\n" + fld.Parking + "\n" +
+                                "\n" + fld.ImportantSpots.Replace(',', '\n');
                 }
             }
         }
