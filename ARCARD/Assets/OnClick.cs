@@ -21,6 +21,7 @@ public class OnClick : MonoBehaviour
         station = GameObject.Find("Station");
         cubeAni.GetComponent<Animator>();
         tile.SetActive(false);
+        
     }
 
     // Update is called once per frame
@@ -46,6 +47,12 @@ public class OnClick : MonoBehaviour
                 }
                 else
                 {
+                    Vector3 tilePosn = tile.transform.position;
+                    Vector3 btnPosn = hit.transform.position;
+
+                    Vector3 newpos = new Vector3(btnPosn.x , tilePosn.y ,  btnPosn.z );
+                    
+                    tile.transform.position = newpos;
                     tile.SetActive(true);
                     string json1 = GET(btnName);
                     MyClass fld = MyClass.CreateFromJson(json1.Substring(3, json1.Length - 5));
