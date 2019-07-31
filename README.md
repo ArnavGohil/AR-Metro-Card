@@ -1,6 +1,6 @@
-#AR Metro Card
+# AR Metro Card
 
-##Using Unity and Vuforia.
+## Using Unity and Vuforia.
 
 
 
